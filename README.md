@@ -39,7 +39,7 @@ Describe your project clearly here.
 <div align="center">
 
 <p>
-  Copyright &copy; 2024-present <a target="_blank" href="https://github.com/katorlys">Katorly Lab</a>
+  Copyright &copy; 2026-present <a target="_blank" href="https://github.com/katorlys">Katorly Lab</a>
 </p>
 
 [![License][github-license-badge-bottom]](LICENSE)
